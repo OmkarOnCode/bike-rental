@@ -67,7 +67,7 @@ body{
 }
 
 .main-div {
-    background-image: url('background.jpg');
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
