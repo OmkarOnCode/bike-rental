@@ -125,8 +125,8 @@ iframe{
 .map{
     border: 0;
     height: 23rem;
-    width: 94%;
-    padding: 3%;
+    width: 100%;
+    padding: 2%;
     overflow: hidden;
 }
 
