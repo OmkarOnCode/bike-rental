@@ -67,7 +67,7 @@ body{
 }
 
 .main-div {
-    background-image: url('images/background.jpg');
+    background-image: url('background.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
@@ -115,7 +115,7 @@ body{
     overflow: hidden;
 }
 .banner{
-    background-image: url('images/pricing-menubanner.jpg');
+    background-image: url('pricing-menubanner.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     display: flex;
@@ -444,7 +444,7 @@ footer{
     }
 
     .banner{
-        background-image: url(images/pricing-menubanner.jpg);
+        background-image: url("pricing-menubanner.jpg");
         background-repeat: no-repeat;
         background-position: center center;
         display: flex;
